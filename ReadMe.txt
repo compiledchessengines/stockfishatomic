@@ -1,0 +1,1 @@
+'stockfishatomic.exe' is an atomic only compilation of the multi variant Stockfish engine.
